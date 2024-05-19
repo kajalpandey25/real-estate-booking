@@ -5,10 +5,6 @@ Homyz is a cutting-edge real estate web application developed using the powerful
 
 
 ![Screenshot 1](./client/public/Screenshot1.png)
-<<<<<<< HEAD
-=======
-
->>>>>>> dab929843ca346c47edbbd1b941e70ede1aae44c
 
 ## Features
 
@@ -27,9 +23,6 @@ Homyz is a cutting-edge real estate web application developed using the powerful
 - *Mark as Favourites*: you can also mark as favourite the property which you like.
 
 - *Property Details and Descriptions*: Each property listing should have comprehensive details and descriptions, including property features, room dimensions, amenities, nearby attractions, and any unique selling points. High-quality images and virtual tours can provide a more immersive experience for users.
-
-<<<<<<< HEAD
-
 
 ![Screenshot 1](./client/public/Screenshot2.png)
 ![Screenshot 1](./client/public/Screenshot3.png)
@@ -72,8 +65,6 @@ Homyz is a cutting-edge real estate web application developed using the powerful
 
    bash
    npm run dev
-=======
->>>>>>> dab929843ca346c47edbbd1b941e70ede1aae44c
 
 ## Usage
 
