@@ -23,6 +23,9 @@ Homyz is a cutting-edge real estate web application developed using the powerful
 
 - *Property Details and Descriptions*: Each property listing should have comprehensive details and descriptions, including property features, room dimensions, amenities, nearby attractions, and any unique selling points. High-quality images and virtual tours can provide a more immersive experience for users.
 
+## Screenshots
+
+![Screenshot 1](./real-estate-booking/public/real-4.png)
 
 ## Usage
 
