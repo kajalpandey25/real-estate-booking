@@ -4,6 +4,7 @@
 Homyz is a cutting-edge real estate web application developed using the powerful MERN stack (MongoDB, Express.js, React, Node.js). It serves as a comprehensive platform for users to seamlessly search, list, book, and explore a diverse range of properties available for sale or rent. The application is designed with a user-centric approach, offering an intuitive interface that simplifies property browsing and transactions.
 
 
+![Screenshot 1](./client/public/Screenshot1.png)
 
 ## Features
 
@@ -23,9 +24,49 @@ Homyz is a cutting-edge real estate web application developed using the powerful
 
 - *Property Details and Descriptions*: Each property listing should have comprehensive details and descriptions, including property features, room dimensions, amenities, nearby attractions, and any unique selling points. High-quality images and virtual tours can provide a more immersive experience for users.
 
-## Screenshots
 
-![Screenshot 1](./real-estate-booking/public/real-4.png)
+
+![Screenshot 1](./client/public/Screenshot2.png)
+![Screenshot 1](./client/public/Screenshot3.png)
+![Screenshot 1](./client/public/Screenshot4.png)
+
+
+## Installation
+
+1. Clone the repository:
+
+   bash
+   git clone https://github.com/kajalpandey25/real-estate-booking.git
+   
+
+2. Change into the project directory:
+   bash
+   cd real-estate-booking
+   
+3. Install server dependencies:
+
+   bash
+   npm install
+   
+
+4. Install client dependencies:
+
+   bash
+   cd client
+   npm install
+   
+
+5. Create a .env file in the root directory with your configuration settings.
+
+   bash
+   MONGO = "MONGODB URI"
+   JWT_SECRET = "JWTSECRET"
+   
+
+6. Start the development server:
+
+   bash
+   npm run dev
 
 ## Usage
 
