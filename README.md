@@ -25,7 +25,7 @@ Homyz is a cutting-edge real estate web application developed using the powerful
 
 ## Screenshots
 
-![Screenshot 1](./real-estate-booking/public/real-4.png)
+![Screenshot 1](./client/public/Screenshot1.png)
 
 ## Usage
 
